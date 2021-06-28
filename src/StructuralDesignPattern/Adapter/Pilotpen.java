@@ -1,4 +1,4 @@
-package StructuralDesignPattern;
+package StructuralDesignPattern.Adapter;
 
 public class Pilotpen {
 	public void mark(String str){

@@ -1,4 +1,4 @@
-package StructuralDesignPattern;
+package StructuralDesignPattern.Adapter;
 
 public class AdapterPatternTest {
 	public static void main(String[] args) {
